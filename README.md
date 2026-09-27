@@ -5,6 +5,7 @@
 
 <p align="left">
   <a href="https://galindo26.github.io"><img src="https://img.shields.io/badge/Portfolio-galindo26.github.io-0969da?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/danigalindo26/"><img src="https://img.shields.io/badge/LinkedIn-danigalindo26-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:galindoaranda26@gmail.com"><img src="https://img.shields.io/badge/Email-galindoaranda26%40gmail.com-586069?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Galindo26"><img src="https://img.shields.io/badge/GitHub-Galindo26-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Ubicación-Málaga%2C%20España-586069?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
@@ -33,6 +34,19 @@ Estudiante de último curso del **Grado en Ingeniería Electrónica, Robótica y
 
 ---
 
+### 📜 Certificaciones & Acreditaciones Oficiales
+
+- 🇪🇺 **EIT Higher Education Initiative (Unión Europea) — 12 ECTS en Tecnologías Avanzadas:**
+  - *Artificial Intelligence* (3 ECTS)
+  - *Internet of Things (IoT)* (3 ECTS)
+  - *Cybersecurity* (3 ECTS)
+  - *Big Data* (3 ECTS)
+- 🇬🇧 **Cambridge Assessment English:** *B2 First Certificate in English* (Acreditación oficial para entorno técnico e internacional).
+- 🏛️ **Universidad de Málaga:** *Certificado Oficial de Monitor de Laboratorio de Electrónica* (Escuela de Ingenierías Industriales, 2022–2023).
+- ⚙️ **MathWorks:** *Deep Learning Onramp* (Modelado y entrenamiento de redes neuronales).
+
+---
+
 ### Proyectos y Código Abierto
 
 > *Los repositorios públicos, paquetes modulares y cuadernos de reproducción experimental se publicarán en este espacio conforme alcancen sus hitos de validación técnica.*
@@ -42,5 +56,6 @@ Estudiante de último curso del **Grado en Ingeniería Electrónica, Robótica y
 ### Contacto
 
 * 🌐 **Sitio Web Personal:** [galindo26.github.io](https://galindo26.github.io)
+* 💼 **LinkedIn:** [linkedin.com/in/danigalindo26](https://www.linkedin.com/in/danigalindo26/)
 * ✉️ **Correo Electrónico:** [galindoaranda26@gmail.com](mailto:galindoaranda26@gmail.com)
 * 📍 **Ubicación:** Málaga, España
