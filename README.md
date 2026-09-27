@@ -15,12 +15,11 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year engineering student in **Electronic, Robotic and Mechatronic Engineering** (*Grado en Ingeniería Electrónica, Robótica y Mecatrónica - GIERM*) at the **Universidad de Málaga (UMA)**, specializing in the intersection of **embodied robotics, computer vision, Real-to-Sim dynamics, and autonomous artificial intelligence**.
+I am an engineering student in **Electronic, Robotic and Mechatronic Engineering** (*Grado en Ingeniería Electrónica, Robótica y Mecatrónica - GIERM*) at the **Universidad de Málaga (UMA)**, focusing on **multibody dynamics, Real-to-Sim frameworks, computer vision, and autonomous artificial intelligence**.
 
-- 🎓 **Academic Path:** Completing B.Sc. in Robotics & Mechatronics at UMA, preparing for Master's studies in **Robotics & Artificial Intelligence**.
-- 💼 **Industry Experience:** Field inspection & digital transformation at **OCA Global**, evaluating robotic platforms and radiometric sensor integration for industrial environments.
-- 🔬 **Research Interests:** Multibody dynamic calibration (Real-to-Sim), physics-informed neural networks, real-time HRI teleoperation (MediaPipe), and autonomous local AI agents.
-- 🛠️ **Philosophy:** *Model explicitly what is known, identify rigorously what data supports, and learn only what remains unexplained.*
+- 🎓 **Academic Path:** Senior student at UMA, preparing for Master's studies in **Robotics & Artificial Intelligence**.
+- 🔬 **Core Interests:** Dynamics simulation & calibration (Real-to-Sim), physics-informed modeling, real-time HRI perception (MediaPipe / OpenCV), and sovereign agentic architectures.
+- 🛠️ **Engineering Philosophy:** *Model explicitly what is known, identify rigorously what data supports, and learn only what remains unexplained.*
 
 ---
 
@@ -31,46 +30,23 @@ I am a final-year engineering student in **Electronic, Robotic and Mechatronic E
 | **Languages** | `Python` `C++` `C` `Dart` `SQL` `Bash` `LaTeX` |
 | **Robotics & Control** | `ROS 2 (Humble / Jazzy)` `Nav2` `Control Architectures` `Multibody Dynamics` `Kinematics` |
 | **Simulation & Real-to-Sim** | `NVIDIA Isaac Sim` `Isaac Lab` `OpenUSD / USD Physics` `Gazebo` `CoppeliaSim` |
-| **Vision & Perception** | `OpenCV` `MediaPipe` `3D Pose Estimation` `YOLO` `Spatial Tracking` |
-| **AI & Deep Learning** | `PyTorch` `NumPy` `SciPy` `Local LLMs / VLLMs` `Agentic Workflows` |
-| **Software & Systems** | `Linux (Ubuntu)` `Flutter` `FastAPI` `Git` `ZeroTier P2P` `Docker` |
+| **Vision & Perception** | `OpenCV` `MediaPipe` `3D Pose Estimation` `Spatial Perception` |
+| **AI & Systems** | `PyTorch` `NumPy` `SciPy` `FastAPI` `Flutter` `Linux (Ubuntu)` `Git` `Docker` |
 
 ---
 
-### 🚀 Projects & Research Lines (Roadmap)
+### 🚀 Projects & Open Source
 
-> *This space serves as the launchpad for ongoing engineering projects. Repositories will be made public as milestone deliverables and validation phases are achieved.*
-
-```
-├── 🧠 Dina OS                      -> Autonomous multimodal agentic system (Local LLMs & Hardware Tool-use)
-├── 🔬 MICA Architecture            -> Real-to-Sim Multibody Identification & Dynamic Calibration (OpenUSD + Isaac)
-├── 🦾 HRI Cobot Teleoperation      -> Real-time 3D hand/arm tracking & intent grasping with MediaPipe & ROS 2
-└── 🤖 Mobile Inspection Robotics   -> Feasibility & metrological study for robotic inspection in industrial sites
-```
-
-#### 📦 Project Briefs:
-* **[Dina OS]** — Local autonomous agent architecture designed for native device orchestration, reasoning, speech integration, and multi-tool execution without cloud latency or subscription lock-in.
-* **[MICA]** — *Multibody Identification and Calibration Architecture*. A scientific Real-to-Sim framework decoupling structural truth (OpenUSD) from simulation solvers (Isaac Sim / PhysX) to identify parameters and learn residual dynamics.
-* **[HRI Gesture Mirroring]** — Non-invasive human-robot interaction system using monocular RGB cameras, 3D landmark regression, and active collision avoidance for cobots.
-* **[Robotic Field Inspection]** — Metrological (GUM) and operational viability study on quadruped/wheeled robotic platforms for regulatory inspection of low-voltage electrical facilities and industrial buildings.
-
----
-
-### 📊 GitHub Activity & Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Galindo26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galindo26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+> *Public repositories, packages, and interactive demos will be published here as they reach their respective release and validation milestones.*
 
 ---
 
 ### 📬 Connect With Me
 
-* 🌐 **Personal Portfolio:** [galindo26.github.io](https://galindo26.github.io)
-* ✉️ **Direct Inquiries:** [galindoaranda26@gmail.com](mailto:galindoaranda26@gmail.com)
-* 📍 **Base:** Málaga, Andalusia, Spain
+* 🌐 **Personal Website:** [galindo26.github.io](https://galindo26.github.io)
+* ✉️ **Direct Email:** [galindoaranda26@gmail.com](mailto:galindoaranda26@gmail.com)
+* 📍 **Location:** Málaga, Spain
 
 <p align="center">
-  <sub>Designed & maintained by Daniel Galindo Aranda · Continuous Integration & Evolution</sub>
+  <sub>Designed & maintained by Daniel Galindo Aranda</sub>
 </p>
