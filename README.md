@@ -29,6 +29,7 @@ Final-year student of **Electronic, Robotics and Mechatronics Engineering** at t
 - **EIT Deep Tech Academic Certification** (EIT HEI, European Union), 12 ECTS: Artificial Intelligence, Internet of Things, Cybersecurity and Big Data.
 - **Cambridge English B2 First** (FCE).
 - **MathWorks Deep Learning Onramp.**
+- **Domina la IA con Gemini** (generative AI course, Santander Open Academy and Google).
 
 ---
 
@@ -63,3 +64,4 @@ Estudiante de último curso de **Ingeniería Electrónica, Robótica y Mecatrón
 - **EIT Deep Tech Academic Certification** (EIT HEI, Unión Europea), 12 ECTS: Inteligencia Artificial, Internet of Things, Ciberseguridad y Big Data.
 - **Cambridge English B2 First** (FCE).
 - **MathWorks Deep Learning Onramp.**
+- **Domina la IA con Gemini** (Santander Open Academy y Google).
